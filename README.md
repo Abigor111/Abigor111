@@ -9,6 +9,7 @@ Currently, I’m focusing on advancing my Python skills and exploring more about
 # Learning Goals
 
 R: To deepen my understanding of Data Science.
+
 JavaScript: Despite my reservations, I recognize its power and want to learn more to build complex projects.
 
 # Collaboration
@@ -17,7 +18,9 @@ I’m still a newbie in programming, but I’m learning every day. I believe in 
 # Contact
 
 Email: igorccarvalheira111@gmail.com
+
 LinkedIn: [Igor Carvalheira](https://www.linkedin.com/in/igor-carvalheira-332417240/) (Best way to contact me)
+
 Discord: abigor111
 
 
