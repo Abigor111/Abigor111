@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I’m Igor Carvalheira, also known online as @Abigor111. I'm from Portugal, and my native language is Portuguese. Although I speak English, I apologize in advance for any mistakes.
+Hi, I’m Igor Carvalheira, also known online as @Abigor111. I'm from Portugal, and my native language is Portuguese. I also speak English, but not very well so I apologize in advance for any mistakes.
 # Interests
 
 I’m passionate about Data Science and Software Development. My favorite language is Python, which I use the most. I also have experience with HTML, CSS, JavaScript, Java, and PHP, though they are not my preferred languages.
