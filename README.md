@@ -8,17 +8,17 @@ I’m passionate about Data Science and Software Development. My favorite langua
 Currently, I’m focusing on advancing my Python skills and exploring more about software development. My goal is to integrate Python with other languages to develop websites and apps, leveraging my data science knowledge.
 # Learning Goals
 
-    R: To deepen my understanding of Data Science.
-    JavaScript: Despite my reservations, I recognize its power and want to learn more to build complex projects.
+R: To deepen my understanding of Data Science.
+JavaScript: Despite my reservations, I recognize its power and want to learn more to build complex projects.
 
 # Collaboration
 
 I’m still a newbie in programming, but I’m learning every day. I believe in learning together, so if you have a not-too-complex project, I’d love to collaborate.
 # Contact
 
-    Email: igorccarvalheira111@gmail.com
-    LinkedIn: [Igor Carvalheira](https://www.linkedin.com/in/igor-carvalheira-332417240/) (Best way to contact me)
-    Discord: abigor111
+Email: igorccarvalheira111@gmail.com
+LinkedIn: [Igor Carvalheira](https://www.linkedin.com/in/igor-carvalheira-332417240/) (Best way to contact me)
+Discord: abigor111
 
 
 <!---
