@@ -19,7 +19,7 @@ I’m still a newbie in programming, but I’m learning every day. I believe in 
 
 Email: igorccarvalheira111@gmail.com
 
-LinkedIn: [Igor Carvalheira](https://www.linkedin.com/in/igor-carvalheira-332417240/) (Best way to contact me)
+LinkedIn: [Igor Carvalheira](https://www.linkedin.com/in/igor-carvalheira-332417240/) 
 
 Discord: abigor111
 
