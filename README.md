@@ -31,8 +31,6 @@ Email: igorccarvalheira111@gmail.com
 
 LinkedIn: [Igor Carvalheira](https://www.linkedin.com/in/igor-carvalheira-332417240/) 
 
-Discord: abigor111
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y11IZUOJ)
 <!---
 Abigor111/Abigor111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
